@@ -1,0 +1,10 @@
+.mb-2{ 
+    width: 500px;
+} 
+h2{ 
+    font-family: 'Comic Sans', 'Courier New'; 
+    /* font-family = change the font */
+} 
+.darkcolor{ 
+    background-color:rgb(94, 164, 218) !important ;
+}
